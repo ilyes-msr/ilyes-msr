@@ -3,10 +3,10 @@
 
 About me:
 
-Function: Web Developer.
-Email: mansour.aliilyes@gmail.com.
-Mobile: +213 541439321.
-Location: Algiers, Algeria.
+- Function: Web Developer.
+- Email: mansour.aliilyes@gmail.com.
+- Mobile: +213 541439321.
+- Location: Algiers, Algeria.
 
 <!--
 **ilyes-msr/ilyes-msr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
