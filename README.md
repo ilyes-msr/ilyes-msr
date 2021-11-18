@@ -3,11 +3,10 @@
 
 About me:
 
-- 🌱 I’m currently working as a web developer
-- ✨ I'm based in Algiers, Algeria
+- :computer: I’m currently working as a web developer
+- :earth_africa: I'm based in Algiers, Algeria
 - 📫 How to reach me: mansour.aliilyes@gmail.com
--  Interested in remote work  
-
+- :house: Interested in remote work  
 <!--
 **ilyes-msr/ilyes-msr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
