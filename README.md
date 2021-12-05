@@ -1,5 +1,5 @@
 ### Hi there, I'm Ali 👋
-## I'm a full stack web developer
+## I'm a full-stack web developer
 
 About me:
 
