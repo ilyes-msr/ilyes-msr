@@ -1,4 +1,7 @@
 ### Hi there, Welcome to my GitHub profile 👋
+
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
+
 ## I'm a full-stack web developer
 
 About me:
