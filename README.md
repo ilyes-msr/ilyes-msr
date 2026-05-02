@@ -8,7 +8,9 @@ About me:
 
 - :computer: I’m currently working as a web developer
 - :earth_africa: I'm based in Algiers, Algeria
-- :house: Interested in remote work  
+- :house: Interested in remote work
+- 📱+213 541439321
+- 📪 mansour.aliilyes@gmail.com
 <!--
 **ilyes-msr/ilyes-msr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
